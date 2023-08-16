@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+body {
+    font-family: Poppins;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  header h1 {
+    margin: 0;
+  }
+  
+  nav ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  nav li {
+    display: inline;
+    margin: 0 15px;
+  }
+  
+  nav a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  section {
+    padding: 50px;
+    text-align: center;
+  }
+  
+  .hero {
+    background-image: url('your-image-url.jpg'); /* Add your hero image URL here */
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+  }
+  
+  .menu-items ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .menu-items li {
+    display: inline-block;
+    margin: 0 15px;
+    font-size: 18px;
+  }
+  
+  #orderNowBtn {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #f00;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    border-radius: 26px;
+    
+  }
+  
+  .about-us {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  .contact-info {
+    max-width: 400px;
+    margin: 0 auto;
+  }
+  
